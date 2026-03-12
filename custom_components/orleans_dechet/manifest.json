@@ -7,5 +7,5 @@
   "codeowners": ["@tothemax40"],
   "requirements": ["beautifulsoup4==4.12.2", "requests==2.31.0"],
   "iot_class": "cloud_polling",
-  "version": "1.0.0"
+  "version": "0.0.1"
 }
